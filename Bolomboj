@@ -3,5 +3,9 @@
 int main()
 {
 printf("Dobar dosli");
-return 0;
+
+printf("Dobar dosli");
+
+printf("Dobar dosli");
+return0;
 }
